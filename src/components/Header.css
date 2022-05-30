@@ -1,0 +1,42 @@
+.container  {
+    max-width: 960px;
+    margin : 0 auto ;
+    
+}
+.header {
+    height: 80px;
+    background-color: #111;
+}
+.header-con {
+    display: flex;
+    justify-content:  space-between;
+    height: 80px;
+    align-items: center ;
+}
+
+.logo-container a {
+    color: #fff ; 
+    text-decoration: none ;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.menu {
+    display: flex ; 
+    list-style-type: none;
+    
+}
+.menu li {
+        padding-right:2rem;
+
+}
+.menu li a  {
+    text-decoration: none;
+    color: #fff ; 
+   
+}
+.mobile-menu {
+    display : none ; 
+}
+
+

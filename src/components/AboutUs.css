@@ -1,0 +1,15 @@
+.row img {  
+    max-width: 25rem;  
+    height: auto;  
+    }  
+.row {
+    background-color: pink;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.picture{
+    max-width: 300px;
+    max-width: 450px;
+}
